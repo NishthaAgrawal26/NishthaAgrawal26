@@ -1,5 +1,5 @@
 <p align=”center”>
-<img width="1000" height="320" src="https://github.com/user-attachments/assets/7b51cbe1-252b-4272-9346-427f58539dfe" alt="my banner”>
+<img width="1000" height="300" src="https://github.com/user-attachments/assets/7b51cbe1-252b-4272-9346-427f58539dfe" alt="my banner”>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishthaagrawal26&label=Profile%20views&color=0e75b6&style=flat" alt="nishthaagrawal26" /> </p>
