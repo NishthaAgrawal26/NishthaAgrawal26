@@ -56,7 +56,7 @@
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sanchitwiz&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=NishthaAgrawal26&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
